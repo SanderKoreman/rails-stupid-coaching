@@ -1,0 +1,28 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+body {
+  font-family: Arial;
+  background: #ffffff;
+}
+
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px;
+  border-left: 8px solid rgb(212, 212, 212);
+  line-height: 200%;
+}
+
+p:hover {
+  background-color: rgb(255, 255, 227);
+}
+
+a {
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.container {
+  text-align: center;
+}
